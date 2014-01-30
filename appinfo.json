@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "7c6b6dc1-d1b4-44e8-9f28-5cdb902317bf",
+    "appKeys": {},
+    "longName": "To-Do",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "To-Do",
+    "companyName": "jjv360",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
